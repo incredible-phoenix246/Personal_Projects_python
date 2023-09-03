@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 # Ask the user to enter a password
 password = input("Enter a password: ")
 
